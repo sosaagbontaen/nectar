@@ -5,7 +5,7 @@ CSS and one small JavaScript file. It will run on any host: Netlify, Vercel,
 GitHub Pages, Squarespace's code hosting, or plain shared hosting via FTP.
 
 ```
-website/
+docs/
 ├── index.html          Home
 ├── services.html       The five service areas + engagement models + FAQ
 ├── platform.html       The Hive (CRM)
@@ -19,7 +19,7 @@ website/
 
 ## Preview it locally
 
-From inside the `website` folder:
+From inside the `docs` folder:
 
 ```bash
 python3 -m http.server 8000
@@ -31,7 +31,7 @@ too, but a local server matches how it will behave once deployed.)
 ## Deploy it
 
 The simplest route is Netlify Drop — go to <https://app.netlify.com/drop> and drag
-the `website` folder onto the page. It's live in about ten seconds on a temporary
+the `docs` folder onto the page. It's live in about ten seconds on a temporary
 `something-random.netlify.app` address. Make a free account to keep that URL, then
 point `nectarsweetmarketing.com` at it from Site settings → Domain management.
 
