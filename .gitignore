@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor / local tooling
+.vscode/
+.idea/
+*.swp
+
+# Local preview config — contains machine-specific absolute paths.
+# To preview the site, see website/README.md
+.claude/
+
+# Working reference shots that aren't brand assets
+# (business card webcam photo — its details are already on the site)
+Photo on *.jpg

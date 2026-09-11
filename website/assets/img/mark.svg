@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-74 -71 148 142" role="img" aria-label="Nectar Sweet Marketing honeycomb mark">
+  <defs>
+    <linearGradient id="nsGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#FFEFB0"/>
+      <stop offset="18%"  stop-color="#F3CE2E"/>
+      <stop offset="42%"  stop-color="#C9A227"/>
+      <stop offset="60%"  stop-color="#FCE58A"/>
+      <stop offset="80%"  stop-color="#C9971A"/>
+      <stop offset="100%" stop-color="#8A6A10"/>
+    </linearGradient>
+    <path id="nsHex" d="M0 -25.2 L-21.83 -12.6 L-21.83 12.6 L0 25.2 L21.83 12.6 L21.83 -12.6 Z"/>
+  </defs>
+  <g fill="none" stroke="url(#nsGold)" stroke-width="4.6" stroke-linejoin="round" stroke-linecap="round">
+    <use href="#nsHex" x="0"       y="0"/>
+    <use href="#nsHex" x="-45.033" y="0"/>
+    <use href="#nsHex" x="45.033"  y="0"/>
+    <use href="#nsHex" x="-22.517" y="-39"/>
+    <use href="#nsHex" x="22.517"  y="-39"/>
+    <use href="#nsHex" x="-22.517" y="39"/>
+    <use href="#nsHex" x="22.517"  y="39"/>
+  </g>
+</svg>
